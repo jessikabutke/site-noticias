@@ -4,7 +4,7 @@ body {
 
 /*ESTILO TOPO*/
 #topo {
-    background: url('imagens/fundo.png') left top;
+    background: url('fundo.png') left top;
     width: 1350px;
     height: 230px;
 }
@@ -28,7 +28,7 @@ body {
     float: left;
     height: 40px;
     line-height: 40px;
-    background: rgb(180, 15, 37) url('imagens/divisor.png') no-repeat center right;
+    background: rgb(180, 15, 37) url('divisor.png') no-repeat center right;
     margin: 0;
     padding: 0;
 }
@@ -85,7 +85,7 @@ body {
 }
 
 #entrevistas ul li a:hover {
-    background: url('imagens/marcador.png') no-repeat left center;
+    background: url('marcador.png') no-repeat left center;
     color: #a8a4a4;
     text-indent: 25px;
 }
@@ -132,7 +132,7 @@ body {
 }
 
 .fundo {
-    background: url('imagens/fundo-caixa.png');
+    background: url('fundo-caixa.png');
 }
 
 .interior {
